@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LogicMass621
 - 👀 I’m interested in making python games
 - 🌱 I’m currently trying to learn java
-- I'm currently collaborating on coding a python game
+- I'm currently coding a python game by myself :(
 
 <!---
 LogicMass621/LogicMass621 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
